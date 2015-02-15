@@ -1,0 +1,16 @@
+{
+    "name": "itvisionsy/laravel-roles-authorization",
+    "description": "A simple config-based laravel autorization system.",
+    "authors": [
+        {
+            "name": "Muhannad Shelleh",
+            "email": "muhannad.shelleh@itvision-sy.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ItvisionSy\\LaravelRolesAuthorization\\": "src/"
+        }
+    }
+}
